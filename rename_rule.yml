@@ -1,0 +1,4 @@
+---
+path: "./"
+rules:
+  hogehoge_*: "foofoo_*"
